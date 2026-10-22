@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Claude AI Bridge</name>
+    <directory>isaac_ai_bridge</directory>
+    <description>Freezes the game every update, exports state to a file, and plays inputs written by an external agent.</description>
+    <version>0.1</version>
+    <visibility>Private</visibility>
+</metadata>

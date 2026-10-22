@@ -87,7 +87,7 @@ python cut_pauses.py "录像.mkv" --music bgm.mp3   # 加连续背景音乐
 
 ## 致谢
 
-思路来自让 Claude 冻结游戏、逐帧游玩《蔚蓝》的实验。
+思路来自让 Claude 冻结游戏、逐帧游玩《蔚蓝》的实验（Credit:Zork2048）https://www.bilibili.com/video/BV1aPJR6ZEwU/?spm_id_from=333.337.search-card.all.click&vd_source=f93e60d2c0d66ac56f97f28ea9445421
 
 ---
 
